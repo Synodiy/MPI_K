@@ -1,0 +1,10 @@
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\bin\Release\MPI_KSH_Universal.exe
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\bin\Release\MPI_KSH_Universal.pdb
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\bin\Release\System.Data.SQLite.dll
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.Change_System_Form.resources
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.MainForm.resources
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.Properties.Resources.resources
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.Work_Form.resources
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.csproj.GenerateResource.Cache
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.exe
+E:\1_GosNIIP\Изделия\КПА\MPI\MPI\Исходники\kshine\MPI_KSH_Universal\MPI_KSH_Universal\obj\Release\MPI_KSH_Universal.pdb
